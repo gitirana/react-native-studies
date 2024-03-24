@@ -1,1 +1,1 @@
-# react-native-studies
+# react-native
